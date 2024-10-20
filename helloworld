@@ -1,0 +1,4 @@
+cd new_repo  # navigate into the cloned repository
+echo "print('Hello World')" > feature.py  # create a new file
+git add feature.py  # stage the file
+git commit -m "Add feature.py"  # commit the new file
